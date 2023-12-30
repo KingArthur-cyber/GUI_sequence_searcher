@@ -1,0 +1,1248 @@
+Index of the query sequence that match: 
+3	641
+Index of the database sequence that matches the query: 
+10388	11026
+
+
+Index of the query sequence that match: 
+24	641
+Index of the database sequence that matches the query: 
+30545	31162
+
+
+Index of the query sequence that match: 
+25	641
+Index of the database sequence that matches the query: 
+30546	31162
+
+
+Index of the query sequence that match: 
+26	641
+Index of the database sequence that matches the query: 
+30547	31162
+
+
+Index of the query sequence that match: 
+46	641
+Index of the database sequence that matches the query: 
+62351	62946
+
+
+Index of the query sequence that match: 
+25	641
+Index of the database sequence that matches the query: 
+62386	63002
+
+
+Index of the query sequence that match: 
+26	641
+Index of the database sequence that matches the query: 
+62387	63002
+
+
+Index of the query sequence that match: 
+2	641
+Index of the database sequence that matches the query: 
+97444	98083
+
+
+Index of the query sequence that match: 
+8	641
+Index of the database sequence that matches the query: 
+127119	127752
+
+
+Index of the query sequence that match: 
+48	641
+Index of the database sequence that matches the query: 
+128126	128719
+
+
+Index of the query sequence that match: 
+41	641
+Index of the database sequence that matches the query: 
+147926	148526
+
+
+Index of the query sequence that match: 
+42	641
+Index of the database sequence that matches the query: 
+147927	148526
+
+
+Index of the query sequence that match: 
+43	641
+Index of the database sequence that matches the query: 
+147928	148526
+
+
+Index of the query sequence that match: 
+27	641
+Index of the database sequence that matches the query: 
+195707	196321
+
+
+Index of the query sequence that match: 
+7	641
+Index of the database sequence that matches the query: 
+208534	209168
+
+
+Index of the query sequence that match: 
+47	641
+Index of the database sequence that matches the query: 
+235065	235659
+
+
+Index of the query sequence that match: 
+41	641
+Index of the database sequence that matches the query: 
+298025	298625
+
+
+Index of the query sequence that match: 
+25	641
+Index of the database sequence that matches the query: 
+332746	333362
+
+
+Index of the query sequence that match: 
+25	641
+Index of the database sequence that matches the query: 
+365555	366171
+
+
+Index of the query sequence that match: 
+26	641
+Index of the database sequence that matches the query: 
+365556	366171
+
+
+Index of the query sequence that match: 
+27	641
+Index of the database sequence that matches the query: 
+365620	366234
+
+
+Index of the query sequence that match: 
+8	641
+Index of the database sequence that matches the query: 
+390752	391385
+
+
+Index of the query sequence that match: 
+24	641
+Index of the database sequence that matches the query: 
+418522	419139
+
+
+Index of the query sequence that match: 
+3	641
+Index of the database sequence that matches the query: 
+433084	433722
+
+
+Index of the query sequence that match: 
+48	641
+Index of the database sequence that matches the query: 
+443647	444240
+
+
+Index of the query sequence that match: 
+33	641
+Index of the database sequence that matches the query: 
+445605	446213
+
+
+Index of the query sequence that match: 
+26	641
+Index of the database sequence that matches the query: 
+457799	458414
+
+
+Index of the query sequence that match: 
+48	641
+Index of the database sequence that matches the query: 
+472009	472602
+
+
+Index of the query sequence that match: 
+20	641
+Index of the database sequence that matches the query: 
+490116	490737
+
+
+Index of the query sequence that match: 
+48	641
+Index of the database sequence that matches the query: 
+498561	499154
+
+
+Index of the query sequence that match: 
+24	641
+Index of the database sequence that matches the query: 
+521845	522462
+
+
+Index of the query sequence that match: 
+46	641
+Index of the database sequence that matches the query: 
+551221	551816
+
+
+Index of the query sequence that match: 
+5	641
+Index of the database sequence that matches the query: 
+565642	566278
+
+
+Index of the query sequence that match: 
+46	641
+Index of the database sequence that matches the query: 
+577719	578314
+
+
+Index of the query sequence that match: 
+21	641
+Index of the database sequence that matches the query: 
+590877	591497
+
+
+Index of the query sequence that match: 
+26	641
+Index of the database sequence that matches the query: 
+612193	612808
+
+
+Index of the query sequence that match: 
+48	641
+Index of the database sequence that matches the query: 
+643340	643933
+
+
+Index of the query sequence that match: 
+0	641
+Index of the database sequence that matches the query: 
+656125	656766
+
+
+Index of the query sequence that match: 
+9	641
+Index of the database sequence that matches the query: 
+678205	678837
+
+
+Index of the query sequence that match: 
+2	641
+Index of the database sequence that matches the query: 
+685190	685829
+
+
+Index of the query sequence that match: 
+24	641
+Index of the database sequence that matches the query: 
+687130	687747
+
+
+Index of the query sequence that match: 
+41	641
+Index of the database sequence that matches the query: 
+691074	691674
+
+
+Index of the query sequence that match: 
+2	641
+Index of the database sequence that matches the query: 
+692539	693178
+
+
+Index of the query sequence that match: 
+47	641
+Index of the database sequence that matches the query: 
+735146	735740
+
+
+Index of the query sequence that match: 
+48	641
+Index of the database sequence that matches the query: 
+735147	735740
+
+
+Index of the query sequence that match: 
+27	641
+Index of the database sequence that matches the query: 
+748059	748673
+
+
+Index of the query sequence that match: 
+25	641
+Index of the database sequence that matches the query: 
+774352	774968
+
+
+Index of the query sequence that match: 
+26	641
+Index of the database sequence that matches the query: 
+774353	774968
+
+
+Index of the query sequence that match: 
+12	641
+Index of the database sequence that matches the query: 
+790501	791130
+
+
+Index of the query sequence that match: 
+5	641
+Index of the database sequence that matches the query: 
+835777	836413
+
+
+Index of the query sequence that match: 
+6	641
+Index of the database sequence that matches the query: 
+835778	836413
+
+
+Index of the query sequence that match: 
+47	641
+Index of the database sequence that matches the query: 
+846369	846963
+
+
+Index of the query sequence that match: 
+48	641
+Index of the database sequence that matches the query: 
+846370	846963
+
+
+Index of the query sequence that match: 
+1	641
+Index of the database sequence that matches the query: 
+849224	849864
+
+
+Index of the query sequence that match: 
+2	641
+Index of the database sequence that matches the query: 
+849225	849864
+
+
+Index of the query sequence that match: 
+0	641
+Index of the database sequence that matches the query: 
+849232	849873
+
+
+Index of the query sequence that match: 
+1	641
+Index of the database sequence that matches the query: 
+849233	849873
+
+
+Index of the query sequence that match: 
+2	641
+Index of the database sequence that matches the query: 
+849234	849873
+
+
+Index of the query sequence that match: 
+3	641
+Index of the database sequence that matches the query: 
+849235	849873
+
+
+Index of the query sequence that match: 
+4	641
+Index of the database sequence that matches the query: 
+849236	849873
+
+
+Index of the query sequence that match: 
+5	641
+Index of the database sequence that matches the query: 
+849237	849873
+
+
+Index of the query sequence that match: 
+6	641
+Index of the database sequence that matches the query: 
+849238	849873
+
+
+Index of the query sequence that match: 
+7	641
+Index of the database sequence that matches the query: 
+849239	849873
+
+
+Index of the query sequence that match: 
+8	641
+Index of the database sequence that matches the query: 
+849240	849873
+
+
+Index of the query sequence that match: 
+9	641
+Index of the database sequence that matches the query: 
+849241	849873
+
+
+Index of the query sequence that match: 
+10	641
+Index of the database sequence that matches the query: 
+849242	849873
+
+
+Index of the query sequence that match: 
+11	641
+Index of the database sequence that matches the query: 
+849243	849873
+
+
+Index of the query sequence that match: 
+12	641
+Index of the database sequence that matches the query: 
+849244	849873
+
+
+Index of the query sequence that match: 
+13	641
+Index of the database sequence that matches the query: 
+849245	849873
+
+
+Index of the query sequence that match: 
+14	641
+Index of the database sequence that matches the query: 
+849246	849873
+
+
+Index of the query sequence that match: 
+15	641
+Index of the database sequence that matches the query: 
+849247	849873
+
+
+Index of the query sequence that match: 
+16	641
+Index of the database sequence that matches the query: 
+849248	849873
+
+
+Index of the query sequence that match: 
+17	641
+Index of the database sequence that matches the query: 
+849249	849873
+
+
+Index of the query sequence that match: 
+18	641
+Index of the database sequence that matches the query: 
+849250	849873
+
+
+Index of the query sequence that match: 
+19	641
+Index of the database sequence that matches the query: 
+849251	849873
+
+
+Index of the query sequence that match: 
+20	641
+Index of the database sequence that matches the query: 
+849252	849873
+
+
+Index of the query sequence that match: 
+21	641
+Index of the database sequence that matches the query: 
+849253	849873
+
+
+Index of the query sequence that match: 
+22	641
+Index of the database sequence that matches the query: 
+849254	849873
+
+
+Index of the query sequence that match: 
+23	641
+Index of the database sequence that matches the query: 
+849255	849873
+
+
+Index of the query sequence that match: 
+24	641
+Index of the database sequence that matches the query: 
+849256	849873
+
+
+Index of the query sequence that match: 
+25	641
+Index of the database sequence that matches the query: 
+849257	849873
+
+
+Index of the query sequence that match: 
+26	641
+Index of the database sequence that matches the query: 
+849258	849873
+
+
+Index of the query sequence that match: 
+27	641
+Index of the database sequence that matches the query: 
+849259	849873
+
+
+Index of the query sequence that match: 
+28	641
+Index of the database sequence that matches the query: 
+849260	849873
+
+
+Index of the query sequence that match: 
+29	641
+Index of the database sequence that matches the query: 
+849261	849873
+
+
+Index of the query sequence that match: 
+30	641
+Index of the database sequence that matches the query: 
+849262	849873
+
+
+Index of the query sequence that match: 
+31	641
+Index of the database sequence that matches the query: 
+849263	849873
+
+
+Index of the query sequence that match: 
+32	641
+Index of the database sequence that matches the query: 
+849264	849873
+
+
+Index of the query sequence that match: 
+33	641
+Index of the database sequence that matches the query: 
+849265	849873
+
+
+Index of the query sequence that match: 
+34	641
+Index of the database sequence that matches the query: 
+849266	849873
+
+
+Index of the query sequence that match: 
+35	641
+Index of the database sequence that matches the query: 
+849267	849873
+
+
+Index of the query sequence that match: 
+36	641
+Index of the database sequence that matches the query: 
+849268	849873
+
+
+Index of the query sequence that match: 
+37	641
+Index of the database sequence that matches the query: 
+849269	849873
+
+
+Index of the query sequence that match: 
+38	641
+Index of the database sequence that matches the query: 
+849270	849873
+
+
+Index of the query sequence that match: 
+39	641
+Index of the database sequence that matches the query: 
+849271	849873
+
+
+Index of the query sequence that match: 
+40	641
+Index of the database sequence that matches the query: 
+849272	849873
+
+
+Index of the query sequence that match: 
+41	641
+Index of the database sequence that matches the query: 
+849273	849873
+
+
+Index of the query sequence that match: 
+42	641
+Index of the database sequence that matches the query: 
+849274	849873
+
+
+Index of the query sequence that match: 
+43	641
+Index of the database sequence that matches the query: 
+849275	849873
+
+
+Index of the query sequence that match: 
+44	641
+Index of the database sequence that matches the query: 
+849276	849873
+
+
+Index of the query sequence that match: 
+45	641
+Index of the database sequence that matches the query: 
+849277	849873
+
+
+Index of the query sequence that match: 
+46	641
+Index of the database sequence that matches the query: 
+849278	849873
+
+
+Index of the query sequence that match: 
+47	641
+Index of the database sequence that matches the query: 
+849279	849873
+
+
+Index of the query sequence that match: 
+48	641
+Index of the database sequence that matches the query: 
+849280	849873
+
+
+Index of the query sequence that match: 
+31	641
+Index of the database sequence that matches the query: 
+861721	862331
+
+
+Index of the query sequence that match: 
+26	641
+Index of the database sequence that matches the query: 
+868598	869213
+
+
+Index of the query sequence that match: 
+30	641
+Index of the database sequence that matches the query: 
+868655	869266
+
+
+Index of the query sequence that match: 
+31	641
+Index of the database sequence that matches the query: 
+876869	877479
+
+
+Index of the query sequence that match: 
+6	641
+Index of the database sequence that matches the query: 
+880405	881040
+
+
+Index of the query sequence that match: 
+7	641
+Index of the database sequence that matches the query: 
+880406	881040
+
+
+Index of the query sequence that match: 
+45	641
+Index of the database sequence that matches the query: 
+901927	902523
+
+
+Index of the query sequence that match: 
+46	641
+Index of the database sequence that matches the query: 
+901928	902523
+
+
+Index of the query sequence that match: 
+43	641
+Index of the database sequence that matches the query: 
+922742	923340
+
+
+Index of the query sequence that match: 
+46	641
+Index of the database sequence that matches the query: 
+926550	927145
+
+
+Index of the query sequence that match: 
+27	641
+Index of the database sequence that matches the query: 
+940189	940803
+
+
+Index of the query sequence that match: 
+48	641
+Index of the database sequence that matches the query: 
+967635	968228
+
+
+Index of the query sequence that match: 
+46	641
+Index of the database sequence that matches the query: 
+967951	968546
+
+
+Index of the query sequence that match: 
+47	641
+Index of the database sequence that matches the query: 
+967952	968546
+
+
+Index of the query sequence that match: 
+48	641
+Index of the database sequence that matches the query: 
+967953	968546
+
+
+Index of the query sequence that match: 
+7	641
+Index of the database sequence that matches the query: 
+989467	990101
+
+
+Index of the query sequence that match: 
+47	641
+Index of the database sequence that matches the query: 
+995898	996492
+
+
+Index of the query sequence that match: 
+48	641
+Index of the database sequence that matches the query: 
+995899	996492
+
+
+Index of the query sequence that match: 
+27	641
+Index of the database sequence that matches the query: 
+1002726	1003340
+
+
+Index of the query sequence that match: 
+48	641
+Index of the database sequence that matches the query: 
+1028373	1028966
+
+
+Index of the query sequence that match: 
+35	641
+Index of the database sequence that matches the query: 
+1033136	1033742
+
+
+Index of the query sequence that match: 
+23	641
+Index of the database sequence that matches the query: 
+1058861	1059479
+
+
+Index of the query sequence that match: 
+5	641
+Index of the database sequence that matches the query: 
+1076630	1077266
+
+
+Index of the query sequence that match: 
+2	641
+Index of the database sequence that matches the query: 
+1106105	1106744
+
+
+Index of the query sequence that match: 
+8	641
+Index of the database sequence that matches the query: 
+1118234	1118867
+
+
+Index of the query sequence that match: 
+25	641
+Index of the database sequence that matches the query: 
+1122980	1123596
+
+
+Index of the query sequence that match: 
+26	641
+Index of the database sequence that matches the query: 
+1161671	1162286
+
+
+Index of the query sequence that match: 
+46	641
+Index of the database sequence that matches the query: 
+1173565	1174160
+
+
+Index of the query sequence that match: 
+45	641
+Index of the database sequence that matches the query: 
+1180622	1181218
+
+
+Index of the query sequence that match: 
+45	641
+Index of the database sequence that matches the query: 
+1189563	1190159
+
+
+Index of the query sequence that match: 
+46	641
+Index of the database sequence that matches the query: 
+1189564	1190159
+
+
+Index of the query sequence that match: 
+41	641
+Index of the database sequence that matches the query: 
+1238189	1238789
+
+
+Index of the query sequence that match: 
+5	641
+Index of the database sequence that matches the query: 
+1242273	1242909
+
+
+Index of the query sequence that match: 
+32	641
+Index of the database sequence that matches the query: 
+1247272	1247881
+
+
+Index of the query sequence that match: 
+33	641
+Index of the database sequence that matches the query: 
+1247273	1247881
+
+
+Index of the query sequence that match: 
+46	641
+Index of the database sequence that matches the query: 
+1259668	1260263
+
+
+Index of the query sequence that match: 
+4	641
+Index of the database sequence that matches the query: 
+1269716	1270353
+
+
+Index of the query sequence that match: 
+27	641
+Index of the database sequence that matches the query: 
+1279332	1279946
+
+
+Index of the query sequence that match: 
+29	641
+Index of the database sequence that matches the query: 
+1293647	1294259
+
+
+Index of the query sequence that match: 
+45	641
+Index of the database sequence that matches the query: 
+1305977	1306573
+
+
+Index of the query sequence that match: 
+27	641
+Index of the database sequence that matches the query: 
+1319665	1320279
+
+
+Index of the query sequence that match: 
+27	641
+Index of the database sequence that matches the query: 
+1342782	1343396
+
+
+Index of the query sequence that match: 
+22	641
+Index of the database sequence that matches the query: 
+1345810	1346429
+
+
+Index of the query sequence that match: 
+5	641
+Index of the database sequence that matches the query: 
+1398439	1399075
+
+
+Index of the query sequence that match: 
+24	641
+Index of the database sequence that matches the query: 
+1404810	1405427
+
+
+Index of the query sequence that match: 
+25	641
+Index of the database sequence that matches the query: 
+1404811	1405427
+
+
+Index of the query sequence that match: 
+0	641
+Index of the database sequence that matches the query: 
+1424782	1425423
+
+
+Index of the query sequence that match: 
+0	641
+Index of the database sequence that matches the query: 
+1436295	1436936
+
+
+Index of the query sequence that match: 
+47	641
+Index of the database sequence that matches the query: 
+1450999	1451593
+
+
+Index of the query sequence that match: 
+48	641
+Index of the database sequence that matches the query: 
+1451000	1451593
+
+
+Index of the query sequence that match: 
+25	641
+Index of the database sequence that matches the query: 
+1459472	1460088
+
+
+Index of the query sequence that match: 
+26	641
+Index of the database sequence that matches the query: 
+1459473	1460088
+
+
+Index of the query sequence that match: 
+8	641
+Index of the database sequence that matches the query: 
+1472354	1472987
+
+
+Index of the query sequence that match: 
+47	641
+Index of the database sequence that matches the query: 
+1479489	1480083
+
+
+Index of the query sequence that match: 
+25	641
+Index of the database sequence that matches the query: 
+1483517	1484133
+
+
+Index of the query sequence that match: 
+25	641
+Index of the database sequence that matches the query: 
+1519315	1519931
+
+
+Index of the query sequence that match: 
+22	641
+Index of the database sequence that matches the query: 
+1578571	1579190
+
+
+Index of the query sequence that match: 
+46	641
+Index of the database sequence that matches the query: 
+1581779	1582374
+
+
+Index of the query sequence that match: 
+29	641
+Index of the database sequence that matches the query: 
+1601249	1601861
+
+
+Index of the query sequence that match: 
+47	641
+Index of the database sequence that matches the query: 
+1640166	1640760
+
+
+Index of the query sequence that match: 
+21	641
+Index of the database sequence that matches the query: 
+1651847	1652467
+
+
+Index of the query sequence that match: 
+21	641
+Index of the database sequence that matches the query: 
+1663211	1663831
+
+
+Index of the query sequence that match: 
+25	641
+Index of the database sequence that matches the query: 
+1676846	1677462
+
+
+Index of the query sequence that match: 
+26	641
+Index of the database sequence that matches the query: 
+1676847	1677462
+
+
+Index of the query sequence that match: 
+4	641
+Index of the database sequence that matches the query: 
+1682094	1682731
+
+
+Index of the query sequence that match: 
+18	641
+Index of the database sequence that matches the query: 
+1763340	1763963
+
+
+Index of the query sequence that match: 
+19	641
+Index of the database sequence that matches the query: 
+1763341	1763963
+
+
+Index of the query sequence that match: 
+25	641
+Index of the database sequence that matches the query: 
+1781261	1781877
+
+
+Index of the query sequence that match: 
+24	641
+Index of the database sequence that matches the query: 
+1796424	1797041
+
+
+Index of the query sequence that match: 
+25	641
+Index of the database sequence that matches the query: 
+1796425	1797041
+
+
+Index of the query sequence that match: 
+0	641
+Index of the database sequence that matches the query: 
+1797143	1797784
+
+
+Index of the query sequence that match: 
+21	641
+Index of the database sequence that matches the query: 
+1800013	1800633
+
+
+Index of the query sequence that match: 
+21	641
+Index of the database sequence that matches the query: 
+1828768	1829388
+
+
+Index of the query sequence that match: 
+21	641
+Index of the database sequence that matches the query: 
+1878746	1879366
+
+
+Index of the query sequence that match: 
+25	641
+Index of the database sequence that matches the query: 
+1901422	1902038
+
+
+Index of the query sequence that match: 
+26	641
+Index of the database sequence that matches the query: 
+1901423	1902038
+
+
+Index of the query sequence that match: 
+27	641
+Index of the database sequence that matches the query: 
+1901424	1902038
+
+
+Index of the query sequence that match: 
+47	641
+Index of the database sequence that matches the query: 
+1957581	1958175
+
+
+Index of the query sequence that match: 
+5	641
+Index of the database sequence that matches the query: 
+1984085	1984721
+
+
+Index of the query sequence that match: 
+7	641
+Index of the database sequence that matches the query: 
+2031043	2031677
+
+
+Index of the query sequence that match: 
+5	641
+Index of the database sequence that matches the query: 
+2043706	2044342
+
+
+Index of the query sequence that match: 
+6	641
+Index of the database sequence that matches the query: 
+2043707	2044342
+
+
+Index of the query sequence that match: 
+7	641
+Index of the database sequence that matches the query: 
+2043708	2044342
+
+
+Index of the query sequence that match: 
+8	641
+Index of the database sequence that matches the query: 
+2084476	2085109
+
+
+Index of the query sequence that match: 
+46	641
+Index of the database sequence that matches the query: 
+2095873	2096468
+
+
+Index of the query sequence that match: 
+22	641
+Index of the database sequence that matches the query: 
+2129706	2130325
+
+
+Index of the query sequence that match: 
+23	641
+Index of the database sequence that matches the query: 
+2129707	2130325
+
+
+Index of the query sequence that match: 
+24	641
+Index of the database sequence that matches the query: 
+2129708	2130325
+
+
+Index of the query sequence that match: 
+44	641
+Index of the database sequence that matches the query: 
+2134595	2135192
+
+
+Index of the query sequence that match: 
+48	641
+Index of the database sequence that matches the query: 
+2135149	2135742
+
+
+Index of the query sequence that match: 
+8	641
+Index of the database sequence that matches the query: 
+2141087	2141720
+
+
+Index of the query sequence that match: 
+44	641
+Index of the database sequence that matches the query: 
+2181700	2182297
+
+
+Index of the query sequence that match: 
+24	641
+Index of the database sequence that matches the query: 
+2199360	2199977
+
+
+Index of the query sequence that match: 
+19	641
+Index of the database sequence that matches the query: 
+2281489	2282111
+
+
+Index of the query sequence that match: 
+48	641
+Index of the database sequence that matches the query: 
+2312950	2313543
+
+
+Index of the query sequence that match: 
+24	641
+Index of the database sequence that matches the query: 
+2314534	2315151
+
+
+Index of the query sequence that match: 
+25	641
+Index of the database sequence that matches the query: 
+2314535	2315151
+
+
+Index of the query sequence that match: 
+24	641
+Index of the database sequence that matches the query: 
+2358090	2358707
+
+
+Index of the query sequence that match: 
+46	641
+Index of the database sequence that matches the query: 
+2373234	2373829
+
+
+Index of the query sequence that match: 
+0	641
+Index of the database sequence that matches the query: 
+2404066	2404707
+
+
+Index of the query sequence that match: 
+12	641
+Index of the database sequence that matches the query: 
+2409315	2409944
+
+
+Index of the query sequence that match: 
+26	641
+Index of the database sequence that matches the query: 
+2414760	2415375
+
+
+Index of the query sequence that match: 
+27	641
+Index of the database sequence that matches the query: 
+2414761	2415375
+
+
+Index of the query sequence that match: 
+46	641
+Index of the database sequence that matches the query: 
+2447603	2448198
+
+
